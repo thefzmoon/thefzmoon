@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Moon <3</h1>
 <h3 align="center">A random dev from the UK with a passion for OpSec <3</h3>
 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://discord.gg/9PMVaBf3mS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="9PMVaBf3mS" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
