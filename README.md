@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Moon <3</h1>
 <h3 align="center">A random dev from the UK with a passion for OpSec <3</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
